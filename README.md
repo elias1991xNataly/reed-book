@@ -1,4 +1,13 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This project i started it first with docker. In case you want to download.
+Run npm install to install the dependencies.
+
+get Docker Running.
+Run docker-compose build
+Run docker-compose up
+And then it would have Run.
+
+This project is for gaining more knowledge and expertise with NextJs and ReactJs.
+Following the lines of Book NextJs 15 & React 19 In action from Jayden Reed.
 
 ## Getting Started
 
